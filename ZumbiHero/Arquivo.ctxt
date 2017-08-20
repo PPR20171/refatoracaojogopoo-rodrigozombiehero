@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Arquivo
+comment0.text=\r\n\ Arquivo\ \u00E9\ uma\ classe\ respons\u00E1vel\ por\ guardar\ informa\u00E7oes\ de\:\ pontua\u00E7\u00E3o,\ \u00E1udio\ e\ bloqueio\ das\ fases.\r\n
+comment1.params=caminho
+comment1.target=Arquivo(java.lang.String)
+comment1.text=\r\n\ construtor\ da\ classe.\r\n
+comment2.params=dados
+comment2.target=void\ salvar(java.lang.String)
+comment2.text=\r\n\ m\u00E9todo\ respons\u00E1vel\ por\ salvar\ os\ dados\ no\ arquivo.\r\n
+comment3.params=
+comment3.target=java.lang.String\ ler()
+comment3.text=\r\n\ m\u00E9todo\ respons\u00E1vel\ por\ ler\ dados\ do\ arquivo.\r\n
+comment4.params=
+comment4.target=void\ removeDados()
+comment4.text=\r\n\ m\u00E9todo\ respons\u00E1vel\ por\ apagar\ os\ dados\ do\ arquivo.\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ getDados()
+comment5.text=\r\n\ m\u00E9todo\ respons\u00E1vel\ por\ retornar\ o\ atribudo\ dados.\r\n
+numComments=6

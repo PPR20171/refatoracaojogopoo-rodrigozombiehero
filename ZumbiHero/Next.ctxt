@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Next
+comment0.text=\r\n\ Classe\ Next\ \u00E9\ a\ classe\ respons\u00E1vel\ pelo\ bot\u00E3o\ pr\u00F3ximo.\r\n
+comment1.params=TelaInicial
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=image\ world
+comment2.target=Next(greenfoot.GreenfootImage,\ greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ act\ m\u00E9todo\ respons\u00E1vel\ por\ chamar\ a\ classe\ world\ quando\ \u00E9\ clicado\ no\ bot\u00E3o\ pr\u00F3ximo.\r\n
+comment4.params=
+comment4.target=void\ isClicked()
+numComments=5

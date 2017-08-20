@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TelaInicial
+comment0.text=\r\n\ Classe\ respons\u00E1vel\ pela\ tela\ inicial\ do\ jogo.\r\n\ onde\ ser\u00E1\ iniciado\ o\ menu.\r\n
+comment1.params=
+comment1.target=TelaInicial()
+comment1.text=\r\n\ Construtor\ da\ tela\ inicial\ respons\u00E1vel\ por\ inciar\ os\ sons,\r\n\ background\ e\ o\ menu.\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ M\u00E9todo\ \u00E9\ respons\u00E1vel\ por\ iniciar\ o\ som\r\n\ de\ fundo\ e\ par\u00E1-lo\ quando\ a\ primeira\ fase\ \u00E9\ iniciada.\r\n
+comment3.params=
+comment3.target=void\ menuIdioma()
+numComments=4

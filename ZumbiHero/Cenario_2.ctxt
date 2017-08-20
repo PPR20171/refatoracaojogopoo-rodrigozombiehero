@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Cenario_2
+comment0.text=\r\n\ Cenario_2\ classe\ que\ herda\ de\ ScrollWorld\ respons\u00E1vel\ pelo\ cen\u00E1rio\ 2\r\n
+comment1.params=
+comment1.target=Cenario_2()
+comment1.text=\r\n\ Construtor\ de\ Cenario_2\ cria\ tamanho\ do\ cen\u00E1rio\ junto\ com\ todos\ os\ personagens\ e\ objetos\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ act\ m\u00E9todo\ que\ \u00E9\ respons\u00E1vel\ intera\u00E7\u00E3o\ do\ protagonista\ com\ o\ cen\u00E1rio\r\n
+numComments=3

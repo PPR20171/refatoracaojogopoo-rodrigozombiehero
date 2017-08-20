@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ArmaEmPunho
+comment0.text=\r\n\ Arma\ em\ punho\ representa\ as\ armas\ disponiveis\ para\ o\ protagonista.\r\n
+comment1.params=
+comment1.target=ArmaEmPunho()
+comment1.text=\r\n\ construtor\ de\ classe.\r\n
+comment2.params=
+comment2.target=boolean\ listaVazia()
+comment2.text=\r\n\ m\u00E9todo\ respons\u00E1vel\ para\ verificar\ se\ a\ lista\ de\ armas\ est\u00E1\ vazia.\r\n
+comment3.params=arma
+comment3.target=void\ inserir(Armas)
+comment3.text=\r\n\ m\u00E9todo\ respons\u00E1vel\ por\ adicionar\ um\ tipo\ de\ arma\ na\ lista\ de\ armas.\r\n
+comment4.params=
+comment4.target=Armas\ trocar()
+comment4.text=\r\n\ m\u00E9todo\ respons\u00E1vel\ pelo\ retorno\ do\ tipo\ de\ arma\ escolhida,\ espada,\ pistola\ ou\ escopeta.\r\n
+comment5.params=
+comment5.target=int\ getQtd()
+comment5.text=\r\n\ m\u00E9todo\ respons\u00E1vel\ por\ retornar\ o\ atributo\ qtd\ (quantidade).\r\n
+comment6.params=
+comment6.target=Armas\ getArma()
+comment6.text=\r\n\ m\u00E9todo\ respons\u00E1vel\ por\ retornar\ o\ atributo\ arma.\r\n
+numComments=7

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BotaoBr
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BotaoBr\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=menu
+comment1.target=BotaoBr(Menu)
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ BotaoBr\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=botaoIngles
+comment2.target=void\ setBotaoIngles(BotaoIngles)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

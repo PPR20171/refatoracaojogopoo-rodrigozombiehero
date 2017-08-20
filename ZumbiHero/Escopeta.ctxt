@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Escopeta
+comment0.text=\r\n\ Escopeta\ herda\ da\ classe\ ArmasDeFogo,\ representa\ a\ arma\ de\ fogo\ que\ tem\ maior\ dano.\r\n
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment1.text=\r\n\ m\u00E9todo\ respons\u00E1vel\ por\ adicionar\ ao\ cen\u00E1rio\ a\ pistola.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ m\u00E9todo\ respons\u00E1vel\ pelo\ funcionamento\ da\ escopeta.\r\n
+comment3.params=
+comment3.target=Escopeta()
+comment3.text=\r\n\ construtor\ da\ classe.\r\n
+comment4.params=
+comment4.target=int\ disparo()
+comment4.text=\r\n\ m\u00E9todo\ sobrescrito\ da\ Classe\ ArmasDeFogo,\ respons\u00E1vel\ pela\ a\u00E7\u00E3o\ de\ disparo\ da\ arma\ de\ fogo\ e\ pela\ anima\u00E7\u00E3o\ com\ rela\u00E7\u00E3o\ ao\ cen\u00E1rio.\r\n\ Retorno\ 1\ indica\ disparo\ foi\ realizado;\ retorno\ -1\ indica\ que\ nao\ foi\ disparado,\ por\u00E9m\ tem\ ainda\ tem\ muni\u00E7\u00E3o\ na\ arma;\ retorno\ 0\ indicar\ que\ n\u00E3o\ foi\ \r\n\ feito\ por\ falta\ de\ muni\u00E7\u00E3o.\r\n
+numComments=5
